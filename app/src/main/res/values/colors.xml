@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_capacity">#b0000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="page_background">#FFf6f6f6</color>
+    <color name="required_icon">#FFFF7000</color>
+    <color name="title">#FF333333</color>
+    <color name="white_gray_pressed">#ff666666</color>
+</resources>
